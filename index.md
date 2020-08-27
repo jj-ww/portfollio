@@ -1,10 +1,10 @@
-## Portfollio stuff
+# Portfollio stuff
 
 
 Hey this is portfollio for jjww
 
 
-cool typing test 
+## cool typing test 
 
 
 ![typingt test](https://github.com/jj-ww/portfollio/blob/gh-pages/images/Screenshot%202020-08-27%20at%208.35.10%20AM.png?raw=true)
